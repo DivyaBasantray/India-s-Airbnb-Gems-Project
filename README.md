@@ -1,5 +1,6 @@
 # India's-Airbnb-Gems-Project
 
+
 ## 🎯 1. Project Objective
 
 - The goal of this project was to analyze the top 500 Airbnb listings across India to understand how factors like room type, Superhost status, city, and ratings influence pricing and customer satisfaction.
@@ -15,6 +16,7 @@
 * Which cities have the most and the costliest Airbnb stays?
 
 * What’s the overall guest satisfaction level in India’s Airbnb market?
+
 
 ## 📊 2. Key Insights (Results After EDA)
 
@@ -46,6 +48,7 @@
 
 - Gurugram, Lonavala, Jaipur, and Udaipur also rank high in listings and average prices.
 
+
 ## ⚙️ 3. Tech Stack & Tools Used
 
 Tool	Purpose	Why It Was Used:
@@ -54,6 +57,7 @@ Tool	Purpose	Why It Was Used:
 - Python (Pandas, NumPy):	Data manipulation, exploration	Easy to handle structured data for analysis.
 - Data visualization (Matplotlib & Seaborn): To visualize patterns, correlations, and distributions clearly.
 - Jupyter Notebook:	Development & presentation	For clean code execution, graph display, and storytelling.
+
   
 ## 📈 4. EDA (Graphs) — Purpose and Business Value
 
@@ -67,6 +71,7 @@ Tool	Purpose	Why It Was Used:
 
 🧠 Business Understanding:
 The EDA helps Airbnb or property owners understand how to price their listings, identify profitable cities, and what type of properties guests prefer most in India.
+
 
 ## 🗂️ 5. Dataset
 
