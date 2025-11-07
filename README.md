@@ -1,6 +1,6 @@
 # India's-Airbnb-Gems-Project
 
-🎯 1. Project Objective
+## 🎯 1. Project Objective
 
 - The goal of this project was to analyze the top 500 Airbnb listings across India to understand how factors like room type, Superhost status, city, and ratings influence pricing and customer satisfaction.
 
@@ -16,7 +16,7 @@
 
 * What’s the overall guest satisfaction level in India’s Airbnb market?
 
-📊 2. Key Insights (Results After EDA)
+## 📊 2. Key Insights (Results After EDA)
 
 💰 Pricing:
 
@@ -46,7 +46,7 @@
 
 - Gurugram, Lonavala, Jaipur, and Udaipur also rank high in listings and average prices.
 
-⚙️ 3. Tech Stack & Tools Used
+## ⚙️ 3. Tech Stack & Tools Used
 
 Tool	Purpose	Why It Was Used:
 
@@ -55,7 +55,7 @@ Tool	Purpose	Why It Was Used:
 - Data visualization (Matplotlib & Seaborn): To visualize patterns, correlations, and distributions clearly.
 - Jupyter Notebook:	Development & presentation	For clean code execution, graph display, and storytelling.
   
-📈 4. EDA (Graphs) — Purpose and Business Value
+## 📈 4. EDA (Graphs) — Purpose and Business Value
 
 - The EDA helped uncover key patterns in Airbnb’s India market using simple visualizations.
 - The price distribution graph showed that most listings are budget-friendly, under ₹5,000 per night, while a few premium stays charge higher prices.
@@ -68,7 +68,7 @@ Tool	Purpose	Why It Was Used:
 🧠 Business Understanding:
 The EDA helps Airbnb or property owners understand how to price their listings, identify profitable cities, and what type of properties guests prefer most in India.
 
-🗂️ 5. Dataset
+## 🗂️ 5. Dataset
 
 Name: Airbnb_India_Top_500.csv
 Source: Kaggle – [Airbnb India Top 500 Listings](https://www.kaggle.com/datasets/kanchana1990/indias-airbnb-gems-2024-trending-picks?utm_source=chatgpt.com)
