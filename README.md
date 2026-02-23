@@ -1,4 +1,4 @@
-# India's-Airbnb-Gems-Project
+# India's-Airbnb-Gems
 
 
 ## 🎯 1. Project Objective
