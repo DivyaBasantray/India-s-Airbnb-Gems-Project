@@ -54,7 +54,7 @@
 Tool	Purpose	Why It Was Used:
 
 - MySQL:	Data cleaning, removing duplicates, fixing missing values	For accurate, structured, and query-based data preparation.
-- Python (Pandas, NumPy):	Data manipulation, exploration	Easy to handle structured data for analysis.
+- Python (Pandas):	Data manipulation, exploration	Easy to handle structured data for analysis.
 - Data visualization (Matplotlib & Seaborn): To visualize patterns, correlations, and distributions clearly.
 - Jupyter Notebook:	Development & presentation	For clean code execution, graph display, and storytelling.
 
